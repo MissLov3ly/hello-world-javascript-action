@@ -5,7 +5,7 @@
 
 This action prints `Hello, World!` or `Hello, <who-to-greet>!` to the log. To
 learn how this action was built, see
-[Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action).
+[Creating a JavaScript action][def].
 
 ## Create Your Own Action
 
@@ -71,3 +71,9 @@ For example workflow runs, check out the
 | Output | Description             |
 | ------ | ----------------------- |
 | `time` | The time we greeted you |
+
+
+[def]: https://docs.github.com/en/actions/creating-actions/creating-a-javascript-actio**```python
+n
+
+```**
